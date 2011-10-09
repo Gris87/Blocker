@@ -1,0 +1,5 @@
+__history/
+*.exe
+
+src/__history/
+src/*.dcu
