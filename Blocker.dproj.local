@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011.10.09 18:05:52.766.pas,C:\Users\Gris\Documents\RAD Studio\Projects\Unit1.pas=D:\Projects\My\Delphi\Programs\Blocker\MainUnit.pas</Transaction>
+    <Transaction>2011.10.09 18:05:52.772.dfm,C:\Users\Gris\Documents\RAD Studio\Projects\Unit1.dfm=D:\Projects\My\Delphi\Programs\Blocker\MainUnit.dfm</Transaction>
+    <Transaction>2011.10.09 18:05:56.802.dproj,C:\Users\Gris\Documents\RAD Studio\Projects\Project1.dproj=D:\Projects\My\Delphi\Programs\Blocker\Blocker.dproj</Transaction>
+    <Transaction>2011.10.09 18:27:40.713.pas,D:\Projects\My\Delphi\Programs\Blocker2\MainUnit.pas=D:\Projects\My\Delphi\Programs\Blocker2\src\MainUnit.pas</Transaction>
+    <Transaction>2011.10.09 18:27:40.713.dfm,D:\Projects\My\Delphi\Programs\Blocker2\MainUnit.dfm=D:\Projects\My\Delphi\Programs\Blocker2\src\MainUnit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
